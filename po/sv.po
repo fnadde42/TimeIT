@@ -124,13 +124,13 @@ msgstr "Fortsätt"
 #. for X minutes. What should we do?"
 #: ../src/GUI/internal/IdleDialog.cpp:79
 msgid "No activity has been detected for"
-msgstr "Ingen activitet detekterrad de senaste"
+msgstr "Ingen aktivitet detekterrad de senaste"
 
 #. Note to translators: This is the second part of the sentence "No activity has been detected
 #. for X minutes. What should we do?"
 #: ../src/GUI/internal/IdleDialog.cpp:82
 msgid "minutes. What should we do?"
-msgstr "minuterna. Wad ska vi göra?"
+msgstr "minuterna. Vad ska vi göra?"
 
 #: ../src/GUI/internal/MainWindow/MainWindow.cpp:51
 msgid "Week"
